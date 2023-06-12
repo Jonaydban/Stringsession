@@ -2,7 +2,7 @@ import os
 import logging
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+
 
 
 # Set up logging
